@@ -1,1 +1,1 @@
-Procfile
+web: python web.py
